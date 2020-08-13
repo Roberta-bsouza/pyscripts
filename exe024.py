@@ -5,6 +5,8 @@
 #num = int(input('Digite um número: '))
 #raiz = sqrt(num)
 #print('A raiz de {} é igual a {}'.format(num, floor(raiz)))
-import random #números ale
-num = random.randint(1,10)
-print
+#import random #números aleatórios
+#num = random.randint(1,10)
+#print(num)
+
+
