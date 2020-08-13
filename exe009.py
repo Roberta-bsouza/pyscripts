@@ -1,0 +1,7 @@
+a = int(input('Informe um número: '))
+b = int(input('Informe o segundo número: '))
+c = int(input('Informe o terceiro número: '))
+exp = a + (b * c)
+raiz = a**(1/2)
+print('O resultado da expresão é {}'.format(exp))
+print(raiz)
